@@ -1,6 +1,5 @@
 Testando o stash
 
 
-
-CONFLITO DO CHERRY PICK RESOLVIDO de novo
+Cherry-pick testado de novo
 
